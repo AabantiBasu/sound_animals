@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+.header_div{
+    background-color:brown;
+    color: aliceblue;
+}
+.header_div p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    font-size:12px ;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    background-color: azure;
+    position:fixed;
+    color: black;
+    bottom: 0;
+    font-size: 20px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px  grey ;
+}
